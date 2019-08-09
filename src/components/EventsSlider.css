@@ -3,8 +3,9 @@
     position: absolute;
     width: 400px;
     height: auto;
+    right: 10%;
     top: 20%;
-    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .event-slider img{

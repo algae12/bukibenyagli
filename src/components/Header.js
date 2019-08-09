@@ -10,6 +10,7 @@ function Header() {
                 <Icon className="icon" name="logo"></Icon>
                 <span className="text">Start</span>
             </Button>
+            <div className="logo"></div>
         </div>
     )
 }

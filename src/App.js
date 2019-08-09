@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
 import Header from './components/Header'
+import movies from './movies.json'
+import EventSlider from './components/EventsSlider';
 
 function App() {
   return (
@@ -8,6 +10,7 @@ function App() {
       <header className="App-header">
         <Header/>
       </header>
+      <EventSlider movies={movies}/>
     </div>
   );
 }

@@ -1,5 +1,4 @@
 .movie-player {
-    position: absolute;
-    width: auto;
-    height: auto;
+  margin: auto;
+  float: left;
 }

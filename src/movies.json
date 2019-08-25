@@ -1,7 +1,17 @@
 [
-    {"title": "Casablanca",
-    "date": "9/8/19",
-    "img": "https://i.pinimg.com/originals/8d/aa/fa/8daafa47de895dfad3580cbc09eb7f20.jpg"},
-    {"title": "other",
-    "img": "./src/img/palyitagaformesam.jpg"}
+  {
+    "title": "After Hours",
+    "date": "15/8/19",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTUxMjEzMzI2MV5BMl5BanBnXkFtZTgwNTU3ODAxMDE@._V1_.jpg"
+  },
+  {
+    "title": "Rushmore",
+    "date": "20/8/19",
+    "img": "https://i.pinimg.com/originals/70/98/25/7098251278e9ffecc683348d0ea3a46a.jpg"
+  },
+  {
+    "title": "Sunshine",
+    "date": "29/8/19",
+    "img": "https://i.pinimg.com/originals/8f/0f/ab/8f0fab66676d4924c8b79c2325765859.jpg"
+  }
 ]

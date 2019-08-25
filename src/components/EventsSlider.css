@@ -1,26 +1,33 @@
 .event-slider {
-    margin: 0;
-    position: absolute;
-    width: 400px;
-    height: auto;
-    right: 10%;
-    top: 20%;
-    transform: translate(-50%, -50%);
+  margin: 0 auto;
+  position: relative;
+  width: 400px;
+  height: auto;
 }
 
-.event-slider img{
-    width: 100%;
-    max-height: 400px;
+.event-slider img {
+  width: 100%;
+  max-height: 400px;
 }
 
 .event-slider button {
-    width: 50%;
+  width: 50%;
 }
 
 .event-slider-next {
-    float: left;
+  float: right;
 }
 
 .progress {
-    margin: 10px 2px;
+  margin: 10px 2px;
+}
+
+@media (max-width: 750px) {
+  .event-slider {
+    position: relative;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    height: auto;
+  }
 }

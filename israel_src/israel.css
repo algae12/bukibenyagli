@@ -2,6 +2,10 @@ body {
   background: #fffdd0;
 }
 
+#lowfibody {
+  background-image: url("pink.gif");
+}
+
 #tmrw {
   width: 250px;
   display: block;
@@ -9,7 +13,7 @@ body {
 }
 
 #macbg {
-  background-image: url("https://thumbs.gfycat.com/ElasticOddballGoat-small.gif");
+  background-image: url("hand.gif");
   height: 500px;
 }
 
@@ -18,4 +22,27 @@ body {
   margin: 0 auto;
   margin-top: 20vh;
   width: fit-content;
+}
+
+#lowfigirl {
+  border: 8px outset #cc13fa;
+  margin: 0 auto;
+  margin-top: 20vh;
+  width: fit-content;
+}
+
+#back {
+  top: 0;
+  margin: 10px;
+  position: absolute;
+  width: 100px;
+}
+
+#back.main {
+  top: 40px;
+}
+
+a {
+  font-size: 30px;
+  line-height: 50px;
 }

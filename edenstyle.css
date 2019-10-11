@@ -1,0 +1,16 @@
+h1{
+	color: rgb(0,0,128);
+	font-size:5em;
+}
+
+body{
+	background-image: url("art.png");
+	background-size: 500px;	
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

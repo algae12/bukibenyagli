@@ -1,0 +1,21 @@
+body {
+  background: #fffdd0;
+}
+
+#tmrw {
+  width: 250px;
+  display: block;
+  border: 8px outset #f7f077;
+}
+
+#macbg {
+  background-image: url("https://thumbs.gfycat.com/ElasticOddballGoat-small.gif");
+  height: 500px;
+}
+
+#mactonight {
+  border: 8px outset #f7f077;
+  margin: 0 auto;
+  margin-top: 20vh;
+  width: fit-content;
+}
